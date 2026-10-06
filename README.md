@@ -1,42 +1,25 @@
 硬件、嵌入式与网络工具。
 
-[站点](https://git.mrhao.xyz/) · [博客](https://git.mrhao.xyz/blog/) · [ClawBot](https://github.com/JHPatchouli/clawbot-roleplay)
+[站点](https://git.mrhao.xyz/) · [博客](https://git.mrhao.xyz/blog/) · [GitHub](https://github.com/JHPatchouli)
 
+<!-- profile:begin -->
 ## 正在维护
 
 | 项目 | 内容 |
 |---|---|
-| [ClawBot 角色扮演后端](https://github.com/JHPatchouli/clawbot-roleplay) | 基于 ClawBot 微信接口的角色扮演后端，支持角色卡、长期记忆、工具调用与现实上下文 |
-| [个人站点](https://github.com/JHPatchouli/JHPatchouli.github.io) | `git.mrhao.xyz` 首页 |
-| [博客](https://github.com/JHPatchouli/blog) | `git.mrhao.xyz/blog` |
+| [burnpdf](https://github.com/JHPatchouli/burnpdf) | Self-hosted burn-after-reading links for PDFs. |
+| [clawbot-roleplay](https://github.com/JHPatchouli/clawbot-roleplay) | 基于 ClawBot 微信接口的角色扮演后端：角色卡、长期记忆、工具调用、时间与天气感知。 |
+| [blog](https://github.com/JHPatchouli/blog) | 静态博客 · Pages 在用（git.mrhao.xyz/blog） |
 
 ## 不再维护
 
-### 中兴微
-
 | 项目 | 内容 |
 |---|---|
-| [AlicePushBotBurningTool](https://github.com/JHPatchouli/AlicePushBotBurningTool) | 仅是烧录工具。内核为 [alice-pusher-bot-zxic](https://github.com/Amamiyashi0n/alice-pusher-bot-zxic)，新版界面为 [alice-nl80211-webui-zxic](https://github.com/Amamiyashi0n/alice-nl80211-webui-zxic) |
-
-### OpenWrt
-
-| 项目 | 内容 |
-|---|---|
-| [R4A-OpenWrt](https://github.com/JHPatchouli/R4A-OpenWrt) | R4A OpenWrt 编译模板 |
-| [shared-lede-ua2f](https://github.com/JHPatchouli/shared-lede-ua2f) | UA2F 定制 OpenWrt 固件 |
-
-### 嵌入式
-
-| 项目 | 内容 |
-|---|---|
-| [arduino-esp8266fsmake-plugin](https://github.com/JHPatchouli/arduino-esp8266fsmake-plugin) | ESP8266 文件系统镜像上传插件 |
-| [ETH_ESP32-Arduino](https://github.com/JHPatchouli/ETH_ESP32-Arduino) | WT32-ETH01 以太网模块例程 |
-| [TPLink_Route_ShowInfo](https://github.com/JHPatchouli/TPLink_Route_ShowInfo) | TL-WAR1200L 路由器状态查询 |
-
-## 其他项目
-
-| 项目 | 内容 |
-|---|---|
-| [icv-system](https://github.com/JHPatchouli/icv-system) | 车辆与交通视觉系统 |
-| [drScratch](https://github.com/JHPatchouli/drScratch) | Scratch 项目分析 |
-| [ocr.space_code_example](https://github.com/JHPatchouli/ocr.space_code_example) | OCR API 示例 |
+| [AlicePushBotBurningTool](https://github.com/JHPatchouli/AlicePushBotBurningTool) | 中兴微随身路由 Webhook 刷入工具（不再维护）。 |
+| [arduino-esp8266fsmake-plugin](https://github.com/JHPatchouli/arduino-esp8266fsmake-plugin) | 自制：ESP8266 文件系统镜像上传插件 · 存档 |
+| [ETH_ESP32-Arduino](https://github.com/JHPatchouli/ETH_ESP32-Arduino) | WT32-ETH01 以太网模块 Arduino 例程 · 存档 |
+| [icv-system](https://github.com/JHPatchouli/icv-system) | 车辆/交通视觉系统 · Python（app + orm + cars/traffic/user）· 存档 |
+| [lede-32M](https://github.com/JHPatchouli/lede-32M) | R4A 32M flash 固件魔改 LEDE 源码树 · 归档 |
+| [MI-R4A-OpenWrt](https://github.com/JHPatchouli/MI-R4A-OpenWrt) | 小米 R4A-G 32M flash 魔改 OpenWrt · Actions 编译仓库（含 .config / diy-part）· 归档 |
+| [TPLink_Route_ShowInfo](https://github.com/JHPatchouli/TPLink_Route_ShowInfo) | TL-WAR1200L 路由器状态快速查询 · Python · 存档 |
+<!-- profile:end -->
