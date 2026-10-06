@@ -20,6 +20,12 @@
 | [ETH_ESP32-Arduino](https://github.com/JHPatchouli/ETH_ESP32-Arduino) | WT32-ETH01 以太网模块例程 |
 | [TPLink_Route_ShowInfo](https://github.com/JHPatchouli/TPLink_Route_ShowInfo) | TL-WAR1200L 路由器状态查询 |
 
+## 不再维护
+
+| 项目 | 内容 |
+|---|---|
+| [AlicePushBotBurningTool](https://github.com/JHPatchouli/AlicePushBotBurningTool) | 中兴微随身路由 Webhook 刷入工具。最新版本见 [alice-nl80211-webui-zxic](https://github.com/Amamiyashi0n/alice-nl80211-webui-zxic) |
+
 ## 其他项目
 
 | 项目 | 内容 |
