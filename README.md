@@ -10,21 +10,28 @@
 | [个人站点](https://github.com/JHPatchouli/JHPatchouli.github.io) | `git.mrhao.xyz` 首页 |
 | [博客](https://github.com/JHPatchouli/blog) | `git.mrhao.xyz/blog` |
 
-## 嵌入式与网络
+## 不再维护
+
+### 中兴微
+
+| 项目 | 内容 |
+|---|---|
+| [AlicePushBotBurningTool](https://github.com/JHPatchouli/AlicePushBotBurningTool) | 仅是烧录工具。内核为 [alice-pusher-bot-zxic](https://github.com/Amamiyashi0n/alice-pusher-bot-zxic)，新版界面为 [alice-nl80211-webui-zxic](https://github.com/Amamiyashi0n/alice-nl80211-webui-zxic) |
+
+### OpenWrt
 
 | 项目 | 内容 |
 |---|---|
 | [R4A-OpenWrt](https://github.com/JHPatchouli/R4A-OpenWrt) | R4A OpenWrt 编译模板 |
 | [shared-lede-ua2f](https://github.com/JHPatchouli/shared-lede-ua2f) | UA2F 定制 OpenWrt 固件 |
-| [arduino-esp8266fsmake-plugin](https://github.com/JHPatchouli/arduino-esp8266fsmake-plugin) | ESP8266 文件系统镜像上传插件 |
-| [ETH_ESP32-Arduino](https://github.com/JHPatchouli/ETH_ESP32-Arduino) | WT32-ETH01 以太网模块例程 |
-| [TPLink_Route_ShowInfo](https://github.com/JHPatchouli/TPLink_Route_ShowInfo) | TL-WAR1200L 路由器状态查询 |
 
-## 不再维护
+### 嵌入式
 
 | 项目 | 内容 |
 |---|---|
-| [AlicePushBotBurningTool](https://github.com/JHPatchouli/AlicePushBotBurningTool) | 中兴微随身路由 Webhook 刷入工具。相关项目：[alice-pusher-bot-zxic](https://github.com/Amamiyashi0n/alice-pusher-bot-zxic)、[alice-nl80211-webui-zxic](https://github.com/Amamiyashi0n/alice-nl80211-webui-zxic) |
+| [arduino-esp8266fsmake-plugin](https://github.com/JHPatchouli/arduino-esp8266fsmake-plugin) | ESP8266 文件系统镜像上传插件 |
+| [ETH_ESP32-Arduino](https://github.com/JHPatchouli/ETH_ESP32-Arduino) | WT32-ETH01 以太网模块例程 |
+| [TPLink_Route_ShowInfo](https://github.com/JHPatchouli/TPLink_Route_ShowInfo) | TL-WAR1200L 路由器状态查询 |
 
 ## 其他项目
 
