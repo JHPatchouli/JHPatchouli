@@ -24,7 +24,7 @@
 
 | 项目 | 内容 |
 |---|---|
-| [AlicePushBotBurningTool](https://github.com/JHPatchouli/AlicePushBotBurningTool) | 中兴微随身路由 Webhook 刷入工具。最新版本见 [alice-nl80211-webui-zxic](https://github.com/Amamiyashi0n/alice-nl80211-webui-zxic) |
+| [AlicePushBotBurningTool](https://github.com/JHPatchouli/AlicePushBotBurningTool) | 中兴微随身路由 Webhook 刷入工具。相关项目：[alice-pusher-bot-zxic](https://github.com/Amamiyashi0n/alice-pusher-bot-zxic)、[alice-nl80211-webui-zxic](https://github.com/Amamiyashi0n/alice-nl80211-webui-zxic) |
 
 ## 其他项目
 
