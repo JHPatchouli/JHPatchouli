@@ -1,6 +1,6 @@
 硬件、嵌入式与网络工具。
 
-[站点](https://git.mrhao.xyz/) · [博客](https://git.mrhao.xyz/blog/) · [GitHub](https://github.com/JHPatchouli)
+[站点](https://git.mrhao.xyz/) · [博客](https://git.mrhao.xyz/blog/)
 
 <!-- profile:begin -->
 ## 正在维护
