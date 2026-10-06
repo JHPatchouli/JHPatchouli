@@ -7,7 +7,8 @@
 
 | 项目 | 内容 |
 |---|---|
-| [burnpdf](https://github.com/JHPatchouli/burnpdf) | Self-hosted burn-after-reading links for PDFs. |
+| [csv-line-chart](https://github.com/JHPatchouli/csv-line-chart) | 把 CSV 画成折线图。上传文件，选择 X / Y 列，查看曲线和统计。 |
+| [view-limited-pdf](https://github.com/JHPatchouli/view-limited-pdf) | 把 PDF 发成可计次的阅读链接。原文件留在服务器上，阅读页只接收带水印的页面图片。 |
 | [clawbot-roleplay](https://github.com/JHPatchouli/clawbot-roleplay) | 基于 ClawBot 微信接口的角色扮演后端：角色卡、长期记忆、工具调用、时间与天气感知。 |
 | [blog](https://github.com/JHPatchouli/blog) | 静态博客 · Pages 在用（git.mrhao.xyz/blog） |
 
