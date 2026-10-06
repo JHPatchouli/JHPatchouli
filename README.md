@@ -1,14 +1,6 @@
-<div align="center">
-
-# JHPatchouli
-
-硬件、嵌入式与网络工具
+硬件、嵌入式与网络工具。
 
 [站点](https://git.mrhao.xyz/) · [博客](https://git.mrhao.xyz/blog/) · [ClawBot](https://github.com/JHPatchouli/clawbot-roleplay)
-
-</div>
-
----
 
 ## 正在维护
 
